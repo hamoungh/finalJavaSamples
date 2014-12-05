@@ -1,5 +1,5 @@
 package questions;
-/*
+/* 
  / Insight class Q2 write a public function called 'generateRandomCoordinates'
  * To generate 50 random coordinates
  * in a two-dimensional coordinate system 
